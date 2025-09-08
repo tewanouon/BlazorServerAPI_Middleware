@@ -1,5 +1,3 @@
-Please use final version "BlazorServerAPI_Middleware.zip"
-
 Project Design Summary (English)
 
 Architecture Overview
