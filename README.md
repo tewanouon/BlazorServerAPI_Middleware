@@ -1,3 +1,5 @@
+.Net Core 8 & Blazor server
+
 Project Design Summary (English)
 
 Architecture Overview
